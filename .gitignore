@@ -1,69 +1,23 @@
-# ============================================================================
-# Hugo Site .gitignore
-# ============================================================================
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
 
-# ============================================================================
-# Hugo Build Artifacts
-# ============================================================================
+# Ignore the directory for local files during development
+local/
 
-# Generated site output
-public/
+# Ignore the Gemfile that is generated
+Gemfile.lock
 
-# Hugo resources (processed assets)
-resources/
+# Ignore files created by npm
+node_modules
+package-lock.json
 
-# Hugo build lock
-.hugo_build.lock
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
 
-# Hugo stats
-hugo_stats.json
+# Ignore folders related to IDEs
+.vscode/
 
-# Auto-generated JS config
-**/assets/jsconfig.json
-
-# ============================================================================
-# Node.js & Package Managers
-# ============================================================================
-
-# Dependencies
-node_modules/
-
-# ============================================================================
-# Environment & Configuration
-# ============================================================================
-
-# Environment variables
-.env
-.env.local
-.env.*.local
-
-# ============================================================================
-# Generated Content
-# ============================================================================
-
-# Pagefind search index
-pagefind/
-static/pagefind/
-
-# ============================================================================
-# Operating System
-# ============================================================================
-
-# macOS
+# Ignore files created by MacOS
 .DS_Store
-.DS_Store?
-._*
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# Linux
-*~
-
-# ============================================================================
-# Logs & Temporary Files
-# ============================================================================
-
-*.log
-npm-debug.log*
