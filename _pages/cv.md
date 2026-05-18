@@ -16,10 +16,9 @@ Education
 
 Research Interests
 ======
-* Large Language Models
-* LLM Agents
-* Reinforcement Learning Post-training (RLHF / RLAIF / RLVR / DPO)
-* Multimodal Foundation Models
+* Multimodal Large Language Models (MLLMs)
+* Post-training of Foundation Models
+* Interpretability of Vision-Language Models in Post-training
 
 Skills
 ======

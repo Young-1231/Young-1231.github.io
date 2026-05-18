@@ -4,7 +4,7 @@ site_theme               : "default" # default | air | sunrise | mint | dirt | c
 title                    : "Feiyang Huang"
 title_separator          : "-"
 name                     : &name "Feiyang Huang"
-description              : &description "Feiyang Huang — MSc student in Artificial Intelligence at CUHK. Research interests: large language models, LLM agents, reinforcement learning post-training, and multimodal foundation models."
+description              : &description "Feiyang Huang — MSc student in Artificial Intelligence at CUHK. Research interests: multimodal large language models (MLLMs), post-training of foundation models, and interpretability of vision-language models during post-training."
 url                      : "https://young-1231.github.io"
 baseurl                  : ""
 repository               : "Young-1231/Young-1231.github.io"
@@ -14,9 +14,9 @@ author:
   avatar           : "bio-photo.jpg"   # replace images/profile.png with your own photo, then change this to "profile.png"
   name             : "Feiyang Huang"
   pronouns         :
-  bio              : "MSc Student in Artificial Intelligence at CUHK. Previously B.Eng. AI from HUST."
+  bio              : "MSc Student in Artificial Intelligence"
   location         : "Hong Kong, China"
-  employer         : "The Chinese University of Hong Kong"
+  employer         : "CUHK"
   uri              :
   email            : "feiyanghuang@link.cuhk.edu.hk"
 
