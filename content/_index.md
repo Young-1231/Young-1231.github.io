@@ -38,11 +38,12 @@ sections:
       title: '📚 Research'
       subtitle: ''
       text: |-
-        I work on **LLM** and **Agent**. Concretely, I am excited about how
-        reinforcement learning during post-training (RLHF, RLAIF, RLVR, DPO and
-        beyond) shapes the capabilities of modern LLM, and how these techniques
-        transfer to **multimodal foundation models** and **Agent** that reason,
-        plan, and act.
+        I work on **large language models (LLMs)** and **agentic AI**.
+        Concretely, I am excited about how reinforcement learning during
+        post-training (RLHF, RLAIF, RLVR, DPO and beyond) shapes the
+        capabilities of modern LLMs, and how these techniques transfer to
+        **multimodal foundation models** and **LLM agents** that reason, plan,
+        and act.
 
         I am currently looking for collaborations and research opportunities in
         these directions. Feel free to reach out!

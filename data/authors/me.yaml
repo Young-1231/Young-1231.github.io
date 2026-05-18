@@ -16,9 +16,9 @@ bio: |
   I am currently pursuing my MSc in Artificial Intelligence at The Chinese
   University of Hong Kong (CUHK). Previously, I received my B.Eng. in
   Artificial Intelligence from Huazhong University of Science and Technology
-  (HUST) in 2025. My research interests center on LLM and Agent — in
-  particular, reinforcement learning for LLM post-training, Agent, and
-  multimodal foundation models.
+  (HUST) in 2025. My research interests center on large language models (LLMs)
+  and agentic AI — in particular, reinforcement learning for LLM post-training,
+  LLM agents, and multimodal foundation models.
 
 affiliations:
   - name: The Chinese University of Hong Kong
@@ -32,8 +32,8 @@ links:
     url: https://github.com/Young-1231
 
 interests:
-  - LLM
-  - Agent
+  - Large Language Models
+  - LLM Agents
   - Reinforcement Learning Post-training
   - Multimodal Foundation Models
 

@@ -22,8 +22,8 @@ hugoblox:
     tagline: "MSc Student in AI at CUHK"
     # Site meta description for search engines and social sharing
     description: "Feiyang Huang — MSc student in Artificial Intelligence at CUHK.
-      Research interests: LLM, Agent, reinforcement learning post-training,
-      and multimodal foundation models."
+      Research interests: large language models, LLM agents, reinforcement
+      learning post-training, and multimodal foundation models."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)
