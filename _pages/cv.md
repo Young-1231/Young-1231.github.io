@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **M.Sc. in Artificial Intelligence**, The Chinese University of Hong Kong, 2025 – Present
-* **B.Eng. in Artificial Intelligence**, Huazhong University of Science and Technology, 2021 – 2025
+* **M.Sc. in Artificial Intelligence**, The Chinese University of Hong Kong <span style="float: right;">2025 – Present</span>
+* **B.Eng. in Artificial Intelligence**, Huazhong University of Science and Technology <span style="float: right;">2021 – 2025</span>
 
 Research Interests
 ======

@@ -13,11 +13,5 @@ My research interests lie in **multimodal large language models (MLLMs)**, **pos
 
 Education
 ======
-- **M.Sc. in Artificial Intelligence**, The Chinese University of Hong Kong, 2025 – Present
-- **B.Eng. in Artificial Intelligence**, Huazhong University of Science and Technology, 2021 – 2025
-
-Research Interests
-======
-- Multimodal Large Language Models (MLLMs)
-- Post-training of Foundation Models
-- Interpretability of Vision-Language Models in Post-training
+- **M.Sc. in Artificial Intelligence**, The Chinese University of Hong Kong <span style="float: right;">2025 – Present</span>
+- **B.Eng. in Artificial Intelligence**, Huazhong University of Science and Technology <span style="float: right;">2021 – 2025</span>
